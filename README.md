@@ -74,7 +74,7 @@ npm start
 
 ## 🎥 Demo Video
 
-> [*(Insert your Google Drive or Loom video link here after recording)*](https://drive.google.com/file/d/17qv_6rSblneJ1Z4xbvdpzvpbLOCtGeyK/view?usp=drivesdk)
+> [*(Video Recording)*](https://drive.google.com/file/d/17qv_6rSblneJ1Z4xbvdpzvpbLOCtGeyK/view?usp=drivesdk)
 
 ---
 
